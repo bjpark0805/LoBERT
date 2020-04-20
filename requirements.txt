@@ -1,0 +1,8 @@
+torch
+numpy
+tqdm
+pandas
+apex
+tensorly
+scikit-learn
+boto3

@@ -1,0 +1,1 @@
+# In result_summary, there are pre_saved best results of teacher and students
