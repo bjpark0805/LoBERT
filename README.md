@@ -86,7 +86,7 @@ LoBERT
 ### Clone the repository
 
 ```
-git clone https://monet.snu.ac.kr/gitlab/snudatalab/vet/VTT-project.git
+git clone https://github.com/bjpark0805/LoBERT.git
 cd LoBERT
 ```
 
