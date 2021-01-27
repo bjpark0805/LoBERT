@@ -5,8 +5,8 @@ through various techniques for low-rank factorizations of matrices and tensors.
 
 ## Overview
 
-This repository is based on the [GitHub repository](https://github.com/intersun/PKD-for-BERT-Model-Compression)
-for [Patient Knowledge Distillation for BERT Model Compression](https://arxiv.org/abs/1908.09355).
+This repository referred the [repository](https://github.com/intersun/PKD-for-BERT-Model-Compression)
+for [Patient Knowledge Distillation for BERT Model Compression](https://arxiv.org/abs/1908.09355) to implement the part of the codes.
 All source files are from the repository if not mentioned otherwise.
 The main scripts that actually run tasks are the following two files, and they 
 have been modified from the original files in the original repository:
